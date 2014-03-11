@@ -14,7 +14,7 @@
     :builds [{:id "async-tut1"
               :source-paths ["src"]
               :compiler {
-                :output-to "async_tut1.js"
+                :output-to "out/async_tut.js"
                 :output-dir "out"
                 :optimizations :none
                 :source-map true}}]})

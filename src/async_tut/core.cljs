@@ -1,4 +1,4 @@
-(ns async-tut1.core
+(ns async-tut.core
   (:require-macros [cljs.core.async.macros :refer [go]])
   (:require 
     [goog.dom :as dom] 
