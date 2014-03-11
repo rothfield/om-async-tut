@@ -1,1 +1,4 @@
-Same as swanodette's tutorial. core.cljs has extended comments compared to original
+Same as swanodette's tutorial, with slight changes.
+
+I heavily commented core.cljs 
+
